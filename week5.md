@@ -44,3 +44,10 @@
 ## Timesheet
 
 ![timesheet week5](./assets/timesheet-week5.png)
+
+## Wireframes
+
+![wireframe 1](./assets/wireframe_1.png)
+![wireframe 2](./assets/wireframe_2.png)
+![wireframe 3](./assets/wireframe_3.png)
+![wireframe 4](./assets/wireframe_4.png)
