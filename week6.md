@@ -56,5 +56,5 @@
 
 ## Timesheet
 
-![timesheet-10-06](./assets/timesheet-week3.png)
+![timesheet-10-06](./assets/screenshot-wk-3.png)
 
