@@ -9,21 +9,19 @@
   </tr>
   <tr>
     <td>
-    Group Team 
-      Set up backend server.
-      Wrote GAF File ingester and parser.
-      Validated UI sketches with sponsor and got good feedback
-      Figma mockup
-      
+       Team Work:
+      - Set up backend server.
+      - Wrote GAF File ingester and parser.
+      - Validated UI sketches with sponsor and got good feedback
+      - Figma mockup   
     </td>
     <td>
-      Setting up Travis CI
-      Updating Project websites with four ups and status
-      Defining models in TypeScript
+      Team Work: 
+      - Setting up Travis CI
+      - Updating Project websites with four ups and status
+      - Defining models in TypeScript
       Building API routes 
-          <li></li>
-        </ul>
-      </ul>
+         
     </td>
   </tr>
   <tr>
