@@ -10,19 +10,35 @@
   <tr>
     <td>
        Team Work:
+      
+      
       - Set up backend server.
+      
+      
       - Wrote GAF File ingester and parser.
+      
+      
       - Validated UI sketches with sponsor and got good feedback
+      
+      
       - Figma mockup   
-    </td>
+   </td>
     <td>
       Team Work: 
+  
+  
       - Setting up Travis CI
+      
+      
       - Updating Project websites with four ups and status
+      
+      
       - Defining models in TypeScript
-      Building API routes 
+      
+      
+      - Building API routes 
          
-    </td>
+   </td>
   </tr>
   <tr>
     <th>What do we need to accomplish our goals?</th>
@@ -30,8 +46,8 @@
   </tr>
   <tr>
     <td>
-      
-    </td>
+      List of specific evidence codes so as to hard-code our filtering process of Annotation status.
+   </td>
     <td>
       We're having difficulty figuring out how to parse OBO files. There seems to be no known js parsers that would serve our needs.
     </td>
@@ -39,3 +55,6 @@
 </table>
 
 ## Timesheet
+
+![timesheet-10-06](./assets/timesheet-week3.png)
+
