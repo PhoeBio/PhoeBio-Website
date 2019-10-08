@@ -9,35 +9,20 @@
   </tr>
   <tr>
     <td>
-       Team Work:
-      
-      
-      - Set up backend server.
-      
-      
-      - Wrote GAF File ingester and parser.
-      
-      
-      - Validated UI sketches with sponsor and got good feedback
-      
-      
-      - Figma mockup   
+      <ul>
+        <li>Set up backend server.</li>
+        <li>Wrote GAF File ingester and parser.</li>
+        <li>Validated UI sketches with sponsor and got good feedback</li>
+        <li>Figma mockup</li>
+      </ul>
    </td>
     <td>
-      Team Work: 
-  
-  
-      - Setting up Travis CI
-      
-      
-      - Updating Project websites with four ups and status
-      
-      
-      - Defining models in TypeScript
-      
-      
-      - Building API routes 
-         
+      <ul>
+        <li>Setting up Travis CI</li>
+        <li>Updating Project websites with four ups and status</li>
+        <li>Defining models in TypeScript</li>
+        <li>Building API routes</li>
+      </ul>
    </td>
   </tr>
   <tr>
@@ -46,15 +31,19 @@
   </tr>
   <tr>
     <td>
-      List of specific evidence codes so as to hard-code our filtering process of Annotation status.
+      <ul>
+        <li>List of specific evidence codes so as to hard-code our filtering process of Annotation status.<li>
+      </ul>
    </td>
     <td>
-      We're having difficulty figuring out how to parse OBO files. There seems to be no known js parsers that would serve our needs.
+      <ul>
+        <li>We're having difficulty figuring out how to parse OBO files. There seems to be no known js parsers that would serve our needs.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ## Timesheet
 
-![timesheet-10-06](./assets/screenshot-wk-3.png)
+![timesheet-10-06](./assets/timesheet-week6.png)
 
