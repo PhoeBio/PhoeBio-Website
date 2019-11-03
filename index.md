@@ -66,8 +66,10 @@ the genome by filtering by evidence code ND, for no data available.
   * [Week 3]\: Project synopsis and development process
   * [Week 4]\: Project plan and domain model
   * [Week 5]\: Defining initial Epic and user stories
+  * [Week 6]\: Wrote initial GAF parser. Sketched UI
 
 [Week 2]: ./week2.md
 [Week 3]: ./week3.md
 [Week 4]: ./week4.md
 [Week 5]: ./week5.md
+[Week 6]: ./week6.md
