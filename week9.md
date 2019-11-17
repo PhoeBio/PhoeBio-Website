@@ -28,12 +28,12 @@
   <tr>
     <td>
       <ul>
-        <li>-<li>
+        <li>Clarity on calculations for gene and annotation data<li>
       </ul>
    </td>
     <td>
       <ul>
-        <li>-</li>
+        <li>Running out of time to validate our data calculations</li>
       </ul>
     </td>
   </tr>

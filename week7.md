@@ -32,12 +32,13 @@
   <tr>
     <td>
       <ul>
-        <li><li>
+        <li>Access to AWS Console<li>
       </ul>
    </td>
     <td>
       <ul>
-        <li>-</li>
+        <li>None of us have used ECS, may be tricky to get going</li>
+        <li>Validating queries may take more effort than we thought</li>
       </ul>
     </td>
   </tr>

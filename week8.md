@@ -30,12 +30,12 @@
   <tr>
     <td>
       <ul>
-        <li><li>
+        <li>AWS Console access for ECS<li>
       </ul>
    </td>
     <td>
       <ul>
-        <li>-</li>
+        <li>Validating the data returned by the endpoints is hard</li>
       </ul>
     </td>
   </tr>
