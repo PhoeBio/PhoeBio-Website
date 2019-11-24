@@ -67,9 +67,17 @@ the genome by filtering by evidence code ND, for no data available.
   * [Week 4]\: Project plan and domain model
   * [Week 5]\: Defining initial Epic and user stories
   * [Week 6]\: Wrote initial GAF parser. Sketched UI
+  * [Week 7]\: Created API routes and initial data ingestion
+  * [Week 8]\: First AWS access and configuration
+  * [Week 9]\: Showed updates to UI and gathered feedback
+  * [Week 10]\: Continued working on data validation
 
 [Week 2]: ./week2.md
 [Week 3]: ./week3.md
 [Week 4]: ./week4.md
 [Week 5]: ./week5.md
 [Week 6]: ./week6.md
+[Week 7]: ./week7.md
+[Week 8]: ./week8.md
+[Week 9]: ./week9.md
+[Week 10]: ./week10.md
